@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Jan 2023 15:03:25 at https://betdls.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://betdls.com/ -O1 "E:\GrooBet\Website\Groobet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:03:27	Warning: 	Found for https://betdls.com/
+15:03:27	Warning: 	File has moved from https://betdls.com/ to roulette
+15:06:51	Warning: 	Retry after error -2 (Receive Time Out) at link https://betdls.com/leaderboard (from https://betdls.com/roulette)
+15:07:00	Warning: 	Found for https://betdls.com/admin/?page=admin
+15:07:00	Warning: 	File has moved from https://betdls.com/admin/?page=admin to /admin/control
+15:07:02	Error: 	"Not Found" (404) at link https://betdls.com/template/img/banner/crypto.png (from https://betdls.com/template/css/others.css?v=1672841007)
+15:07:02	Error: 	"Not Found" (404) at link https://betdls.com/template/img/banner/affiliates.png (from https://betdls.com/template/css/others.css?v=1672841007)
+15:07:02	Error: 	"Not Found" (404) at link https://betdls.com/template/img/games/original/roulette.png (from https://betdls.com/template/css/others.css?v=1672841007)
+15:07:02	Error: 	"Not Found" (404) at link https://betdls.com/template/img/games/original/crash.png (from https://betdls.com/template/css/others.css?v=1672841007)
+15:07:02	Error: 	"Not Found" (404) at link https://betdls.com/template/img/games/original/jackpot.png (from https://betdls.com/template/css/others.css?v=1672841007)
+15:07:02	Error: 	"Not Found" (404) at link https://betdls.com/template/img/games/original/coinflip.png (from https://betdls.com/template/css/others.css?v=1672841007)
+15:07:02	Error: 	"Not Found" (404) at link https://betdls.com/template/img/games/original/unbox.png (from https://betdls.com/template/css/others.css?v=1672841007)
+15:07:02	Error: 	"Not Found" (404) at link https://betdls.com/template/img/games/original/tower.png (from https://betdls.com/template/css/others.css?v=1672841007)
+15:08:51	Warning: 	Retry after error -2 (Receive Time Out) at link https://betdls.com/leaderboard (from https://betdls.com/roulette)
+15:10:51	Error: 	"Receive Time Out" (-2) after 2 retries at link https://betdls.com/leaderboard (from https://betdls.com/roulette)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 25 seconds : 257 links scanned, 243 files written (14950443 bytes overall) [11130700 bytes received at 25012 bytes/sec], 5731690 bytes transferred using HTTP compression in 77 files, ratio 16%, 12.6 requests per connection
+(9 errors, 6 warnings, 0 messages)
